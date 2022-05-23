@@ -32,6 +32,8 @@ Roza has a partially completed dashboard that she needs to finish. She has a com
 ![Gauge chart](https://user-images.githubusercontent.com/39811614/169733843-6c161661-da17-447c-8b1b-3ba58cbc6e3d.png)
 ## Implications
 
+- The main implication of this work was to connect the information with visualization tool to display the information for the users to see it. 
+
 
 
 
